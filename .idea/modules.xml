@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Cavaliers.iml" filepath="$PROJECT_DIR$/Cavaliers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CommonLibrary/CommonLibrary.iml" filepath="$PROJECT_DIR$/CommonLibrary/CommonLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlycoDialogLibrary/FlycoDialogLibrary.iml" filepath="$PROJECT_DIR$/FlycoDialogLibrary/FlycoDialogLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaterialPtrLibrary/MaterialPtrLibrary.iml" filepath="$PROJECT_DIR$/MaterialPtrLibrary/MaterialPtrLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SprintNBA.iml" filepath="$PROJECT_DIR$/SprintNBA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwipeBackLibrary/SwipeBackLibrary.iml" filepath="$PROJECT_DIR$/SwipeBackLibrary/SwipeBackLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VideoPlayerLibrary/VideoPlayerLibrary.iml" filepath="$PROJECT_DIR$/VideoPlayerLibrary/VideoPlayerLibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
     </modules>
   </component>
 </project>

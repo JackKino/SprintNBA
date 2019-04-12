@@ -14,6 +14,19 @@
     <!-- 允许读取手机状态 用于创建BmobInstallation -->
     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
 
+    <!--<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> &lt;!&ndash; 获取网络状态 &ndash;&gt;
+    <uses-permission android:name="android.permission.INTERNET" /> &lt;!&ndash; 网络通信 &ndash;&gt;
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" /> &lt;!&ndash; 获取设备信息 &ndash;&gt;
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" /> &lt;!&ndash; 获取MAC地址 &ndash;&gt;
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> &lt;!&ndash; 读写sdcard，storage等等 &ndash;&gt;
+    <uses-permission android:name="android.permission.RECORD_AUDIO" /> &lt;!&ndash; 允许程序录制音频 &ndash;&gt;
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.KILL_BACKGROUND_PROCESSES" />-->
+
+
     <application
         android:name=".app.SprintNBA"
         android:allowBackup="true"

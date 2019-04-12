@@ -103,6 +103,7 @@ public abstract class BaseAppCompatActivity extends AppCompatActivity {
     public void setContentView(int layoutResID) {
         super.setContentView(layoutResID);
         ButterKnife.inject(this);
+
         mToolbar = ButterKnife.findById(this, R.id.common_toolbar);
         if (mToolbar != null) {
             setSupportActionBar(mToolbar);

@@ -154,6 +154,7 @@
 -keep class org.greenrobot.eventbus.** { *; }
 -keep class okhttp3.** { *; }
 -keep class rx.** { *; }
+-keep com.github.adonggit.**{*;}
 #-keep com.alibaba.fastjson.** { *; }
 
 

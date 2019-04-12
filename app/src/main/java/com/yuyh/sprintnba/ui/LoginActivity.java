@@ -23,6 +23,7 @@ import butterknife.OnClick;
 
 public class LoginActivity extends BaseSwipeBackCompatActivity implements LoginView {
 
+
     @InjectView(R.id.etUsername)
     TextInputEditText etUsername;
     @InjectView(R.id.etPassword)
